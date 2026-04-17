@@ -1,0 +1,28 @@
+{
+  "title": "Back2thePast: QGIS plugin for temporal exploration of Esri Wayback imagery",
+  "creators": [
+    {
+      "name": "González, Félix",
+      "affiliation": "CSIC"
+    },
+    {
+      "name": "Soto, Diego",
+      "affiliation": "UBU"
+    },
+    {
+      "name": "Bravo, Javier",
+      "affiliation": "Evenor"
+    }
+  ],
+  "description": "QGIS plugin for browsing and loading Esri World Imagery Wayback imagery by date, enabling temporal analysis of satellite data.",
+  "license": "MIT",
+  "keywords": [
+    "QGIS",
+    "remote sensing",
+    "satellite imagery",
+    "Wayback",
+    "temporal analysis",
+    "GIS"
+  ],
+  "upload_type": "software"
+}
