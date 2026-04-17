@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Back2thePast: QGIS plugin for temporal exploration of Esri Wayback imagery"
+message: "If you use this software, please cite it as follows:"
+type: software
+authors:
+  - family-names: González
+    given-names: Félix
+    affiliation: IRNAS-CSIC
+  - family-names: Soto
+    given-names: Diego
+    affiliation: Universidad de Burgos (UBU)
+  - family-names: Bravo
+    given-names: Javier
+    affiliation: Evenor-Tech
+version: 1.3.1
+date-released: 2026-04-17
+repository-code: "https://github.com/TU_USUARIO/back2thepast-qgis"
+license: MIT
