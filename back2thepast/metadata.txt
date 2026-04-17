@@ -1,0 +1,17 @@
+[general]
+name=Back2thePast
+qgisMinimumVersion=3.22
+description=Load Esri World Imagery Wayback releases in QGIS, ordered by date, with recent layers loaded by default.
+version=1.3.1
+author=Félix González (CSIC), Diego Soto (UBU), Javier Bravo (Evenor)
+email=
+about=Back2thePast loads Esri World Imagery Wayback releases from the official Wayback configuration, sorts them by release date, caches the release list during the session, groups loaded layers in QGIS, and can load recent or selected releases quickly.
+tracker=
+repository=
+category=Web
+icon=icon.png
+homepage=
+tags=basemap,imagery,esri,wayback,world imagery,history
+author_name=Félix González (CSIC), Diego Soto (UBU), Javier Bravo (Evenor)
+experimental=False
+deprecated=False
